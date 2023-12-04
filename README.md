@@ -1,9 +1,14 @@
 # REQUERIMIENTOS TECNICOS
 -Lenguajes: PHP, TPL
+
 -Seguridad y encriptacion
+
 -Ruteo, URLs semanticas
+
 -Base de datos: SQL
+
 -Utilizacion de motor de plantillas Smarty
+
 -Patron MVC
 
 # REQUERIMIENTOS FUNCIONALES
